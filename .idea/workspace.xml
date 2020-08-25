@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f986a408-8e79-408d-a0b5-2f27bf24306a" name="默认更改列表" comment="Mybatis-plus 自动生成">
+      <changelist_data name="jsc" email="jsc0317@163.comm" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jsc &lt;jsc0317@163.comm&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+  </component>
+  <component name="ProjectId" id="1gWdQdiKvmOFKrdYCHpI7o7EOKg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunManager" selected="Application.MpGenerator">
+    <configuration name="MpGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MpGenerator" />
+      <module name="ethProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ethProject" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.warrior.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MpGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f986a408-8e79-408d-a0b5-2f27bf24306a" name="默认更改列表" comment="" />
+      <created>1598234267979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598234267979</updated>
+      <workItem from="1598234271443" duration="776000" />
+      <workItem from="1598346456644" duration="309000" />
+      <workItem from="1598346793063" duration="3291000" />
+    </task>
+    <task id="LOCAL-00001" summary="Mybatis-plus 自动生成">
+      <created>1598348870695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598348870695</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Mybatis-plus 自动生成">
+      <created>1598349686779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598349686779</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mybatis-plus 自动生成" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mybatis-plus 自动生成" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="731" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598347436820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598347436820" />
+    <state x="781" y="274" key="FileChooserDialogImpl" timestamp="1598234347588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598234347588" />
+    <state width="1694" height="311" key="GridCell.Tab.0.bottom" timestamp="1598361836584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1694" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598361836584" />
+    <state width="1694" height="311" key="GridCell.Tab.0.center" timestamp="1598361836583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1694" height="311" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598361836583" />
+    <state width="1694" height="311" key="GridCell.Tab.0.left" timestamp="1598361836583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1694" height="311" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598361836583" />
+    <state width="1694" height="311" key="GridCell.Tab.0.right" timestamp="1598361836584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1694" height="311" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598361836584" />
+    <state width="1694" height="311" key="GridCell.Tab.1.bottom" timestamp="1598348719340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1694" height="311" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598348719340" />
+    <state width="1694" height="311" key="GridCell.Tab.1.center" timestamp="1598348719340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1694" height="311" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598348719340" />
+    <state width="1694" height="311" key="GridCell.Tab.1.left" timestamp="1598348719340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1694" height="311" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598348719340" />
+    <state width="1694" height="311" key="GridCell.Tab.1.right" timestamp="1598348719340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1694" height="311" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598348719340" />
+    <state x="502" y="164" key="SettingsEditor" timestamp="1598346815066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="502" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598346815066" />
+    <state x="593" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598361822123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="593" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598361822123" />
+    <state x="794" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598361663535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598361663535" />
+  </component>
+</project>
