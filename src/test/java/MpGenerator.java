@@ -19,7 +19,7 @@ import com.baomidou.mybatisplus.generator.config.rules.NamingStrategy;
  */
 public class MpGenerator {
 
-    final static String  dirPath = "D://";
+    final static String  dirPath = "F:\\Git仓库下载\\mybatis-plus-automatic\\src\\main";
 
     /**
      * <p>
@@ -61,18 +61,18 @@ public class MpGenerator {
                 return super.processTypeConvert(fieldType);
             }
         });
-        dsc.setDriverName("com.mysql.jdbc.Driver");
+        dsc.setDriverName("com.mysql.cj.jdbc.Driver");
         dsc.setUsername("root");
         dsc.setPassword("asddsa");
-        dsc.setUrl("jdbc:mysql://127.0.0.1:3306/eth?characterEncoding=utf8");
+        dsc.setUrl("jdbc:mysql://localhost:3306/myshop?characterEncoding=utf8&serverTimezone=UTC");
         mpg.setDataSource(dsc);
 
         // 策略配置
         StrategyConfig strategy = new StrategyConfig();
         // strategy.setCapitalMode(true);// 全局大写命名 ORACLE 注意
-        strategy.setTablePrefix(new String[] { "tb_", "tsys_" });// 此处可以修改为您的表前缀
+        //strategy.setTablePrefix(new String[] { "tb_", "tsys_" });// 此处可以修改为您的表前缀
         strategy.setNaming(NamingStrategy.underline_to_camel);// 表名生成策略
-        // strategy.setInclude(new String[] { "user" }); // 需要生成的表
+         strategy.setInclude(new String[] { "shop" }); // 需要生成的表
         // strategy.setExclude(new String[]{"test"}); // 排除生成的表
         // 自定义实体父类
         // strategy.setSuperEntityClass("com.baomidou.demo.TestEntity");

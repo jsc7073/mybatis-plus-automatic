@@ -21,6 +21,19 @@
   <component name="ChangeListManager">
     <list default="true" id="f986a408-8e79-408d-a0b5-2f27bf24306a" name="默认更改列表" comment="Mybatis-plus 自动生成">
       <changelist_data name="jsc" email="jsc0317@163.comm" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MpGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MpGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ETH-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ETH-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MpGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/MpGenerator.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +57,14 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="userSettingsFile" value="D:\apache-maven-3.5.0\conf\settings.xml" />
+        <option name="localRepository" value="F:\apache-maven-3.5.0\repository" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.5.0\conf\settings.xml" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenRunner">
@@ -73,7 +92,16 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.warrior.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Git仓库下载\mybatis-plus-automatic\src\main\java\com\warrior\entity" />
+      <recent name="F:\Git仓库下载\mybatis-plus-automatic\src\main\java\com\warrior\controler" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.MpGenerator">
     <configuration name="MpGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -109,6 +137,12 @@
       <workItem from="1598234271443" duration="776000" />
       <workItem from="1598346456644" duration="309000" />
       <workItem from="1598346793063" duration="3291000" />
+      <workItem from="1598362557080" duration="966000" />
+      <workItem from="1598363724723" duration="734000" />
+      <workItem from="1598364519569" duration="2282000" />
+      <workItem from="1598368292803" duration="1728000" />
+      <workItem from="1598406975425" duration="1091000" />
+      <workItem from="1598453083944" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="Mybatis-plus 自动生成">
       <created>1598348870695</created>
@@ -147,30 +181,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="Mybatis-plus 自动生成" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="458" y="431" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1598370976090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="458" y="431" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598370976090" />
+    <state x="760" y="382" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1598370977355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="760" y="382" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1598370977355" />
     <state x="731" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598347436820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="731" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598347436820" />
-    <state x="781" y="274" key="FileChooserDialogImpl" timestamp="1598234347588">
+    <state x="781" y="274" key="FileChooserDialogImpl" timestamp="1598364705374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="781" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598234347588" />
-    <state width="1694" height="311" key="GridCell.Tab.0.bottom" timestamp="1598361836584">
+    <state x="781" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598364705374" />
+    <state width="1869" height="268" key="GridCell.Tab.0.bottom" timestamp="1598453409107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1694" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598361836584" />
-    <state width="1694" height="311" key="GridCell.Tab.0.center" timestamp="1598361836583">
+    <state width="1869" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598453409107" />
+    <state width="1869" height="268" key="GridCell.Tab.0.center" timestamp="1598453409107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1694" height="311" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598361836583" />
-    <state width="1694" height="311" key="GridCell.Tab.0.left" timestamp="1598361836583">
+    <state width="1869" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598453409107" />
+    <state width="1869" height="268" key="GridCell.Tab.0.left" timestamp="1598453409107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1694" height="311" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598361836583" />
-    <state width="1694" height="311" key="GridCell.Tab.0.right" timestamp="1598361836584">
+    <state width="1869" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598453409107" />
+    <state width="1869" height="268" key="GridCell.Tab.0.right" timestamp="1598453409107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1694" height="311" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598361836584" />
+    <state width="1869" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598453409107" />
     <state width="1694" height="311" key="GridCell.Tab.1.bottom" timestamp="1598348719340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -187,10 +229,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1694" height="311" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598348719340" />
-    <state x="502" y="164" key="SettingsEditor" timestamp="1598346815066">
+    <state x="502" y="157" key="SettingsEditor" timestamp="1598364713153">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="502" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598346815066" />
+    <state x="502" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598364713153" />
     <state x="593" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598361822123">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -199,5 +241,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598361663535" />
+    <state x="581" y="195" width="757" height="650" key="find.popup" timestamp="1598408072036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="581" y="195" width="757" height="650" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598408072036" />
   </component>
 </project>
